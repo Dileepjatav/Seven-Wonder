@@ -12,7 +12,6 @@ div{
 .container{
     max-width: 100%;
     
-    background-color: #e4e5ed;
     background-color: #ebd2e6;
     display: flex;
     justify-content: center;
