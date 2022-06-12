@@ -3,7 +3,7 @@
 *{
     margin: 0%;
     padding: 0%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins';
 }
 .container{
     width: 100%;
@@ -30,10 +30,12 @@
     display: flex;
     
      
+}   
+.container h2{
+    text-align: center;
 }
 
 h2{
-    text-align: center;
     margin-top: 15px;
     font-size: x-large;
 }
@@ -76,9 +78,10 @@ p{
     
 }
 
-section{
+.section{
     margin-left: 10%;
     margin-right: 10%;
+ 
 
     
 }
@@ -103,3 +106,27 @@ body{
     color: white;
     border: none;
 }
+#sec{
+    padding: 15px;
+    
+}
+.section p{
+    padding: 10px 0px;
+}
+i img{
+    height: 25px;
+}
+i p{
+    color: black;
+    font-size: medium;
+    font-style: normal;
+    margin-left: 10px;
+}
+i{
+    display: inline-flex;
+    align-items: center;
+
+    
+}
+#button:hover{
+    background-color: #eb4e27;
