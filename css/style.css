@@ -1,22 +1,21 @@
-body{
-    
-    
-}
-div{
-    display: block;
-}
+
+
 *{
     margin: 0%;
     padding: 0%;
+    font-family: 'Poppins', sans-serif;
 }
 .container{
-    max-width: 100%;
-    
-    background-color: #ebd2e6;
+    width: 100%;
+    background-color: #e7e9f1;
     display: flex;
     justify-content: center;
+
     
     
+}
+.container img{
+    width: 100%;
 }
 .imgdiv{
     height: 100%;
@@ -26,43 +25,81 @@ div{
 }
 
 .contant{
-    width: 1000px;
-    height: 300px;
+   
     padding: 10px;
     display: flex;
-    float: left;
     
      
 }
-P{
-    font-family:Cambria, Cochin, Georgia, Times, serif;
-    font-size: small;
+
+h2{
+    text-align: center;
+    margin-top: 15px;
+    font-size: x-large;
 }
-.text{
-    font-family:Cambria, Cochin, Georgia, Times, serif;
-    color: rgb(247, 59, 59);
+p{
+    font-size: small;
 }
  
 .div_flex_container1{
-    width: 50%;
-    height: 300px;
-    
-    display: flex;
-
-    
-}
-.div_grid_container1{
-    width: 50%;
-    height: 50%;
-    overflow: hidden;
-    background-color: rgb(255, 255, 255);
     display: grid;
-
+    background-color: #e7e9f1;
+    flex-wrap: wrap;
+   
+    grid-template-columns: 50% 50%;
     
+
 }
 .div_space{
     
     max-width: 100%;
     max-height:100% ;
-    margin: 8px;
+    margin: 15px;
+}
+.text{
+    font-size: medium;
+    font-size: larger;
+}
+.textspace{
+    margin-top: 20px!important;
+    padding: 0.01em 16px;
+}
+.textspace h2{
+    font-size: x-large;
+}
+.Subscribe{
+    background-color: black;
+    color: white;
+    padding: 10px 15px 10px;
+    display:grid;
+    margin: 15px;
+    
+}
+
+section{
+    margin-left: 10%;
+    margin-right: 10%;
+
+    
+}
+body{
+    background-color: #e7e9f1;
+}
+.Subscribe p{
+    font-size: larger;
+    margin-bottom: 5px;
+   
+}.Subscribe input{
+    width: 30%;
+    padding: 5px;
+    font-size: medium;
+    font-weight: 500;
+}
+.Subscribe button{
+    width: 20%;
+    height: 35px;
+    margin-top: 10px;
+    background-color: red;
+    color: white;
+    border: none;
 }
