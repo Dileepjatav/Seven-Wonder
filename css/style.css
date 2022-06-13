@@ -25,6 +25,9 @@
 
 .container h2{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: rgb(156, 94, 7);
 }
 
 h2{
@@ -49,10 +52,12 @@ p{
     max-width: 100%;
     max-height:100% ;
     margin: 15px;
+    padding: 2px;
 }
 .text{
     
     font-size: larger;
+    color: rgb(9, 87, 80);
 }
 .textspace{
     margin-top: 20px!important;
@@ -61,18 +66,23 @@ p{
 .textspace h2{
     font-size: x-large;
 }
+.textspace p{
+    color:rgb(82, 54, 109);
+    
+}
 .Subscribe{
     background-color: black;
     color: white;
     padding: 10px 15px 10px;
     display:grid;
     margin: 15px;
+    padding-bottom: 20px;
     
 }
 
 .section{
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 8%;
+    margin-right: 8%;
  
 
     
@@ -92,11 +102,16 @@ body{
 }
 .Subscribe button{
     width: 25%;
-    height: 35px;
-    margin-top: 10px;
+    height: 40px;
+    margin-left: 20px;
     background-color: red;
     color: white;
     border: none;
+}
+.sub-email{
+    display: flex;
+    align-items: center;
+
 }
 #sec{
     padding: 15px;
@@ -160,6 +175,9 @@ i{
     .container h2{
         text-align: center;
         font-size: medium;
+    }
+    .Subscribe button{
+        font-size: smaller;
     }
 
 
