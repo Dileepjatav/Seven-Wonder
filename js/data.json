@@ -1,0 +1,61 @@
+{"items":[
+    {
+        "title":"1 THE TAJ MAHAL",
+        "p":"It was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal with construction starting in 1632 AD and completed in 1648 AD, with the mosque, the guest house and the main gateway on the south, the outer courtyard and its cloisters were added subsequently and completed in 1653 AD",
+        "img1":{"url":"./img/Taj_1 (2).jpg"},
+        "img2":{"url":"./img/Taj_2 (2).jpg"},
+        "link":{"url":"https://en.wikipedia.org/wiki/Taj_Mahal"}
+        
+        
+
+    },
+    {
+        "title":"2 Chichen Itza",
+        "p":"Chichén Itzá is a Mayan city on the Yucatán Peninsula in Mexico, which flourished in the 9th and 10th centuries CE. Under the Mayan tribe Itzá—who were strongly influenced by the Toltecs—a number of important monuments and temples were built. Among the most notable is the stepped pyramid El Castillo (“The Castle”)",
+        "img1":{"url":"./img/Chichen Itza1 (2).jpg"},
+        "img2":{"url":"./img/Chichen Itza1 (3).jpg"},
+        "link":{"url":"https://en.wikipedia.org/wiki/Chichen_Itza"}
+
+    },
+    {
+        "title":"3 Petra",
+        "p":"The ancient city of Petra, Jordan, is located in a remote valley, nestled among sandstone mountains and cliffs. It was purported to be one of the places where Moses struck a rock and water gushed forth. Later the Nabataeans, an Arab tribe, made it their capital, and during this time it flourished, becoming an important trade center, especially for spices. Noted carvers, the Nabataeans chiseled dwellings, temples, and tombs into the sandstone, which changed color with the shifting sun.",
+        "img1":{"url":"./img/Petra1 (2).jpg"},
+        "img2":{"url":"./img/Petra1 (3).jpg"},
+        "link":{"url":"https://en.wikipedia.org/wiki/Petra"}
+
+    },
+    {
+        "title":"4 Machu Picchu",
+        "p":"This Incan site near Cuzco, Peru, was “discovered” in 1911 by Hiram Bingham, who believed it was Vilcabamba, a secret Incan stronghold used during the 16th-century rebellion against Spanish rule. Although that claim was later disproved, the purpose of Machu Picchu has confounded scholars. Bingham believed it was home to the “Virgins of the Sun",
+        "img1":{"url":"./img/Machu Picchu2 (2).jpg"},
+        "img2":{"url":"./img/Machu Picchu2 (3).jpg"},
+        "link":{"url":"https://en.wikipedia.org/wiki/Machu_Picchu"}
+
+    },
+    {
+        "title":"5 Christ the Redeemer",
+        "p":"Christ the Redeemer, a colossal statue of Jesus, stands atop Mount Corcovado in Rio de Janeiro. Its origins date to just after World War I, when some Brazilians feared a “tide of godlessness.” They proposed a statue, which was ultimately designed by Heitor da Silva Costa, Carlos Oswald, and Paul Landowski. Construction began in 1926",
+        "img1":{"url":"./img/Christ the Redeemer2 (2).jpg"},
+        "img2":{"url":"./img/Christ the Redeemer2 (3).jpg"},
+        "link":{"url":"https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)"}
+
+    },
+    {
+        "title":"6 Great Wall of China",
+        "p":"Great might be an understatement. One of the world’s largest building-construction projects, the Great Wall of China is widely thought to be about 5,500 miles (8,850 km) long; a disputed Chinese study, however, claims the length is 13,170 miles (21,200 km). Work began in the 7th century BCE and continued for two millennia.",
+        "img1":{"url":"./img/Wall of China1 (2).jpg"},
+        "img2":{"url":"./img/Wall of China1 (3).jpg"},
+        "link":{"url":"https://en.wikipedia.org/wiki/Great_Wall_of_China"}
+
+    },
+    {
+        "title":"7 Colosseum",
+        "p":"The Colosseum in Rome was built in the first century by order of the Emperor Vespasian. A feat of engineering, the amphitheater measures 620 by 513 feet (189 by 156 meters) and features a complex system of vaults. It was capable of holding 50,000 spectators, who watched a variety of events. Perhaps most notable were gladiator fights, though men battling animals was also common. In addition, water was sometimes pumped into the Colosseum for mock naval engagementsennia.",
+        "img1":{"url":"img/Colosseum2 (2).jpg"},
+        "img2":{"url":"./img/Colosseum2 (3).jpg"},
+        "link":{"url":"https://en.wikipedia.org/wiki/Colosseum"}
+
+    }
+
+]}
