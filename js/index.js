@@ -26,7 +26,8 @@ async function datafetch(){
 
             html=html+`<div class="textspace" style="display: grid;">
             <h6 class="text">${element.title}</h6>
-            <p>${element.p}</p>
+            <p>${element.p} </p>
+            <a  href="${element.link.url}" >Read more...</a>
             </div>
 
             <div class="div_flex_container1">
